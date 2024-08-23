@@ -37,8 +37,8 @@ footer, header, hgroup, menu, nav, section {
     }
     .video iframe {
       position: absolute;
-      width: 100%;
-      height: 56.25%;
+      width: 95%;
+      height: 40%;
       left: 0;
       right: 0;
       bottom: 0;
